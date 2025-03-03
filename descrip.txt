@@ -1,0 +1,114 @@
+**Drive Link**
+https://drive.google.com/drive/folders/1llBJFtwlRZPIM_svSN5y0Id4JUnGlkcK?usp=drive_link 
+
+
+I'M A
+PHOTOGRAPHER|
+Mehedi Alam
+Sajib
+CEO, ShutterLand
+MY JOURNEY
+My photography journey started with just a mobile phone. I clicked away, saving every penny from tutoring. Finally, I bought my first camera, which was a Sony Alpha 6400, and that's when the real adventure began. From humble beginnings to capturing the world, it's been an incredible ride. Fast forward to today, and I'm trying to make a living out of the things I love. That's me!
+
+50+
+Projects as photographer
+10+
+Brand as client
+30+
+Product photography
+100+
+Outdoor Portrait photography
+
+
+<div class="brands-section" id="Hazi-kacchi-ghar">
+        <div class="headlines">
+          <h3>Collaboration Hazi Kacchi Ghar</h3>
+          <p>2no Gate, CTG</p>
+        </div>
+        <div class="photo-section">
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666497756091.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666498149529.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505772479.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505798276.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505814670 (1).jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505814670.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505825442.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Kacchi Ghar - 2no Gate, CTG/1666505839677.jpg"
+            alt=""
+          />
+        </div>
+      </div>
+      <div class="brands-section" id="Hazi-Maloncho">
+        <div class="headlines">
+          <h3>Hazi Maloncho</h3>
+          <p>New Market, CTG</p>
+        </div>
+        <div class="photo-section">
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1689710957866 (1).jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1689713942110 (1).jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690629879772.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690631403693 (1).jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690631415935.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690631423064.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690692018234.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690692100847.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690726811905.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690726824308.jpg"
+            alt=""
+          />
+          <img
+            src="img/Hazi Maloncho - New Market, CTG/1690726879167.jpg"
+            alt=""
+          />
+        </div>
+      </div>
